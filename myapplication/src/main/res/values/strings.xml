@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Mike\'s First App</string>
+
+    <string name="MajorName">Mobile Application Development</string>
+    <string name="ClassName">Mobile Development Architecture</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="Name">Michael Hampe\'s First Application!</string>
+
+</resources>
